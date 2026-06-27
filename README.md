@@ -1,4 +1,4 @@
-<h2>Introduction</h2>
+## Introduction
 I am an incoming undergraduate for university, my main subject area is computer science with the specialism of data science and AI.<br>
 
 ## 🛠️ Current Project
