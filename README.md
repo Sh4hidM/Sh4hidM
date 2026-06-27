@@ -1,6 +1,5 @@
-
-<h2>Introduction></h2>
-I am an incoming undergraduate for university, my main subject area is computer science with the specialism of data science and AI.
+<h2>Introduction</h2>
+I am an incoming undergraduate for university, my main subject area is computer science with the specialism of data science and AI.<br>
 
 ## 🛠️ Current Project
 * **AI Media Scanner Pipeline:** Building an end-to-end computer vision data ingestion system from scratch using Python, OpenCV, and NumPy to process static images and slice motion video frames into normalized feature-ready arrays.
