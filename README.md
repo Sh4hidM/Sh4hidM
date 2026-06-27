@@ -1,6 +1,5 @@
-<h1 align="center">Welcome to my profile 👋</h1>
 
-## #️⃣ Introduction
+<h2>Introduction></h2>
 I am an incoming undergraduate for university, my main subject area is computer science with the specialism of data science and AI.
 
 ## 🛠️ Current Project
