@@ -34,5 +34,6 @@ I am an incoming undergraduate for university, my main subject area is computer 
 </p>
 
 ## Socials and Communication
-- **LinkedIn:** https://www.linkedin.com/in/shahid-mulla-
-- **Email:** shahid.mulla1@outlook.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-mulla-)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:shahid.mulla1@outlook.com)
