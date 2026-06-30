@@ -1,8 +1,8 @@
 ## Introduction
-I am an incoming undergraduate for university, my main subject area is computer science with the specialism of data science and AI.
+I am an incoming undergraduate for university, my selected subject area is computer science with the specialism of data science and AI. My main goal is to deploy advanced projects to showcase my expertise on software developnent. 
 
 ## Current Project
-* **[AI-media-scanner](https://github.com/Sh4h1dM/AI-media-scanner):** Building an end-to-end computer vision data ingestion system from scratch using Python, OpenCV, and NumPy...
+**[AI-media-scanner](https://github.com/Sh4h1dM/AI-media-scanner):** Building an end-to-end computer vision data ingestion system from scratch using Python, OpenCV, and NumPy...
   
 ## Tools & Tech Stack
 
