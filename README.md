@@ -26,11 +26,11 @@ I am an incoming undergraduate for university, my main subject area is computer 
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh4h1dM&show_icons=true&theme=dark" alt="Shahid's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh4hidM&show_icons=true&theme=dark" alt="Shahid's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh4h1dM&theme=dark" alt="Shahid's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh4hidM&theme=dark" alt="Shahid's Streak" />
 </p>
 
 ## Socials and Communication
