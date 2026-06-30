@@ -2,8 +2,9 @@
 I am an incoming undergraduate for university, my main subject area is computer science with the specialism of data science and AI.
 
 ## Current Project
-* **AI Media Scanner Pipeline:** Building an end-to-end computer vision data ingestion system from scratch using Python, OpenCV, and NumPy to process static images and slice motion video frames into normalized feature-ready arrays.
-
+## 🛠️ Current Project
+* **[AI-media-scanner](https://github.com/Sh4h1dM/AI-media-scanner):** Building an end-to-end computer vision data ingestion system from scratch using Python, OpenCV, and NumPy...
+  
 ## Tools & Tech Stack
 
 ### Languages & Runtimes
