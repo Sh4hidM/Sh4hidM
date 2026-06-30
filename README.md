@@ -22,14 +22,15 @@ I am an incoming undergraduate for university, my main subject area is computer 
 ### Databases & Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh4h1dM&show_icons=true&theme=dark" alt="Shahid's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh4h1dm&show_icons=true&theme=dark" alt="Shahid's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh4h1dM&theme=dark" alt="Shahid's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh4h1dm&theme=dark" alt="Shahid's Streak" />
 </p>
 
 ## Socials and Communication
